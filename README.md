@@ -1,3 +1,1 @@
-Data-Mining
-===========
-README file is in the file project report
+In this project, I mainly used ridge regression algorithm and ten-fold cross validation method to train and test data. The dataset is from the StatLib library, which is maintained at Carnegie Mellon University (The dataset was used in the 1983 American Statistical Association Exposition).  There are seven features of the car for each instance in this dataset. More details please follow the URL (click on the name of this project) to check it out.
